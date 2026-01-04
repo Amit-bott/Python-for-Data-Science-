@@ -11,7 +11,7 @@ EmployeeID,Name,Department,Salary,JoiningDate,Status
 1255,,HR,90332.0,2015-04-23,Resigned
 4786,Loretta Espinoza,Operations,75830.0,2014-12-24,Resigned
 9068,,Operations,70001.0,2021-05-18,Terminated
-4245,Jamie Aguilar,Finance,137549.0,2015-06-26,Resigned
+4245,Jamie Aguilar,Finance,137549.0,2015-06-26,Resigned  
 1409,Mrs. Bonnie Gutierrez MD,HR,134247.0,2020-11-09,Terminated
 7189,Andrew Zimmerman,Finance,144206.0,2015-09-17,Resigned
 6554,George Jenkins,Marketing,59831.0,2015-01-13,Resigned
