@@ -8,7 +8,7 @@ EmployeeID,Name,Department,Salary,JoiningDate,Status
 6247,Allison Salas,Engineering,59154.0,2023-06-14,On Leave
 5968,Daniel Rodriguez,Engineering,56158.0,2016-03-29,Terminated
 3344,Scott Coleman,Operations,137031.0,2018-08-04,On Leave
-1255,,HR,90332.0,2015-04-23,Resigned
+1255,,HR,90332.0,2015-04-23,Resigned  
 4786,Loretta Espinoza,Operations,75830.0,2014-12-24,Resigned
 9068,,Operations,70001.0,2021-05-18,Terminated
 4245,Jamie Aguilar,Finance,137549.0,2015-06-26,Resigned  
