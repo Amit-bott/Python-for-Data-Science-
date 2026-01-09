@@ -20,7 +20,7 @@ EmployeeID,Name,Department,Salary,JoiningDate,Status
 7627,Elizabeth Owens,HR,116511.0,2023-11-03,Resigned
 9152,Whitney Curtis,Engineering,55313.0,2021-10-12,Resigned
 9143,Amanda Johnston,Engineering,82227.0,2016-10-03,On Leave
-7050,Sarah Dunn,Finance,73025.0,2016-05-20,Active
+7050,Sarah Dunn,Finance,73025.0,2016-05-20,Active 
 5228,,Finance,66517.0,2020-10-21,On Leave
 9895,Randy Barrera,,143292.0,2015-04-01,Resigned
 9337,Lawrence Curtis,Finance,39099.0,2016-12-14,Active
