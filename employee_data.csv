@@ -46,7 +46,7 @@ EmployeeID,Name,Department,Salary,JoiningDate,Status
 6938,Thomas Kelly,HR,108193.0,2021-12-26,On Leave
 3444,Brooke Mcdonald,HR,86959.0,2018-07-31,Terminated
 8100,Joan Francis,Marketing,75309.0,2021-02-02,Active
-7181,Patricia Thompson,HR,,,
+7181,Patricia Thompson,HR,
 5186,Chase Mcdonald,Sales,133078.0,2024-02-11,Resigned
 5224,Brandy Martin,Sales,,2023-10-25,Terminated
 2046,Kristy Thomas,Finance,87199.0,2023-01-15,Terminated
